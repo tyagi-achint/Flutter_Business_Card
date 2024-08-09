@@ -1,5 +1,5 @@
 name: business_card
-description: "A new Flutter project."
+description: "A simple Flutter application with Stateless Widget"
 
 publish_to: "none"
 
